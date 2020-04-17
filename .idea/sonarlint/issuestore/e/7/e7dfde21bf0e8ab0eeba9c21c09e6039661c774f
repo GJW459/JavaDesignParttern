@@ -1,0 +1,4 @@
+
+b	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(¥˜½Õ8Ì«×Ã˜.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øì˜¿ùÿÿÿÿ

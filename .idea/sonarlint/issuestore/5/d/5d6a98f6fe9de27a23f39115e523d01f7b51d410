@@ -1,0 +1,7 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(òŠ¤8è¥ÙÃ˜.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øì˜¿ùÿÿÿÿ
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(òŠ¤8è¥ÙÃ˜.
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(à½‡¹ÿÿÿÿÿ8ğºÃ˜.
