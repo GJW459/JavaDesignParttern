@@ -5,24 +5,24 @@ package com.gjw.DayOne.SimpleFactoryPattern;
  */
 public class OperationFactory {
 
-    public static Operation createOperate(String operate) {
+    public static Operation createOperate(OperateType operate) {
 
         Operation operation = null;
         switch (operate) {
 
-            case "+": {
+            case ADD: {
                 operation = new OperationAdd();
                 break;
             }
-            case "-": {
+            case Sub: {
                 operation = new OperationSub();
                 break;
             }
-            case "*": {
+            case Mul: {
                 operation = new OperationMul();
                 break;
             }
-            case "/": {
+            case Div: {
                 operation = new OperationDiv();
                 break;
             }
